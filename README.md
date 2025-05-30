@@ -6,4 +6,4 @@
 ![Oral Exam Ready](https://img.shields.io/badge/Oral_Exam-Ready-success)
 [![School](https://img.shields.io/badge/School-Kristiania%20University%20of%20Applied%20Sciences-red)](https://www.kristiania.no/)
 # shors-algorithm-rsa
-Final exam project for PGR213 (Spring 2025). Demonstrates how RSA encryption can be broken using Shor’s algorithm. Includes quantum circuit implementations, simulations with small primes, and analysis of current hardware limitations.
+Simulated Shor’s algorithm using Qiskit to demonstrate how RSA encryption can be broken with a quantum computer. Explained the role of quantum phase estimation and modular exponentiation, and discussed current hardware limitations.
