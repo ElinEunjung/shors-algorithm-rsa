@@ -1,7 +1,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.13.3%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Built with Qiskit](https://img.shields.io/badge/Built%20with-Qiskit-purple)
-![Status](https://img.shields.io/badge/status-draft-blue)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Course](https://img.shields.io/badge/PGR213-Final_Project-blueviolet)
 ![Oral Exam Ready](https://img.shields.io/badge/Oral_Exam-Ready-success)
 [![School](https://img.shields.io/badge/School-Kristiania%20University%20of%20Applied%20Sciences-red)](https://www.kristiania.no/)
