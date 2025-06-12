@@ -6,7 +6,7 @@
 ![Oral Exam Ready](https://img.shields.io/badge/Oral_Exam-Ready-success)
 [![School](https://img.shields.io/badge/School-Kristiania%20University%20of%20Applied%20Sciences-red)](https://www.kristiania.no/)
 
-# Breaking RSA encryption with Shor's Algorithm - RSA Factorization Demo
+# Simulating Shor's Algorithm to Break RSA Encryption
 
 simulates Shor’s algorithm using Qiskit to demonstrate how RSA encryption could, in theory, be broken by quantum computer. 
 
