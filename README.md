@@ -46,6 +46,7 @@ An optional section shows how full RSA factorization could proceed once the peri
 ---
 
 📝 **Academic Integrity Disclaimer**
+
 This notebook was developed as part of my final exam project for the course **PGR213: Programming and Quantum Computing** at Kristiania University of Applied Sciences (Spring 2025). 
 
 It is shared publicly for portfolio and personal learning purposes only. 
