@@ -8,15 +8,15 @@
 
 # Simulating Shor's Algorithm to Break RSA Encryption
 
-simulates Shor’s algorithm using Qiskit to demonstrate how RSA encryption could, in theory, be broken by quantum computer. 
+This project simulates Shor’s algorithm using Qiskit to demonstrate how RSA encryption could, in theory, be broken by quantum computer. 
 
 Since **order finding(period estimation)** is the key quantum step in breaking RSA, this project focuses on how a quantum computer can estimate the period `r` (order `r`) of a number `a mod n`  The implementation includes:
 
 - Modular exponentiation as a unitary gate
 - Quantum Phase Estimation (QPE)"
-- Visualization of circuit behavior for small composite numbers (e.g, `n = 15`)"
-- [Optional] "Comparison: Classical vs. Quantum order finding"
-- [Optional] "Classical post-processing to factor `n` using the found order `r`"
+- Visualization of circuit behavior for small composite numbers (e.g, `n = 15`)
+- [Optional] Comparison: Classical vs. Quantum order finding
+- [Optional] Classical post-processing to factor `n` using the found order `r`
  
 The goal is to illustrate the **quantum speedup** enabled by QPE in Shor's algorithm. 
 An optional section shows how full RSA factorization could proceed once the period is known.
@@ -38,7 +38,17 @@ An optional section shows how full RSA factorization could proceed once the peri
 <br>
 
 ---
+
 📢 **Extra**: I shared this project on LinkedIn to reflect on the learning process and connect with others interested in quantum computing.
 
 🔗 [View the post on LinkedIn](https://www.linkedin.com/posts/MY_POST_ID)
+
+---
+
+📝 **Academic Integrity Disclaimer**
+This notebook was developed as part of my final exam project for the course **PGR213: Programming and Quantum Computing** at Kristiania University of Applied Sciences (Spring 2025). 
+
+It is shared publicly for portfolio and personal learning purposes only. 
+**Please do not copy or submit this work as your own** if you are currently taking or planning to take this course. 
+
 
