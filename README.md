@@ -15,8 +15,10 @@ Since **order finding(period estimation)** is the key quantum step in breaking R
 - Modular exponentiation as a unitary gate
 - Quantum Phase Estimation (QPE)"
 - Visualization of circuit behavior for small composite numbers (e.g, `n = 15`)
+- Discrepancy (Limitation of QPE)
 - [Optional] Comparison: Classical vs. Quantum order finding
 - [Optional] Classical post-processing to factor `n` using the found order `r`
+- Limitation and Final thoughts
  
 The goal is to illustrate the **quantum speedup** enabled by QPE in Shor's algorithm. 
 An optional section shows how full RSA factorization could proceed once the period is known.
@@ -33,7 +35,7 @@ An optional section shows how full RSA factorization could proceed once the peri
 
 ![QPE outcome bar chart](images/shor_circuit_outcome.png)
 
-**Figure 2:** *Bar-chart of measurement outcomes after 100 shots of the QPE circuit*
+**Figure 2:** *Bar-chart of measurement outcomes after 3200 shots of the QPE circuit*
 
 <br>
 
