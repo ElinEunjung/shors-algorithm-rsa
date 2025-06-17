@@ -13,7 +13,7 @@ This project simulates Shor’s algorithm using Qiskit to demonstrate how RSA en
 Since **order finding(period estimation)** is the key quantum step in breaking RSA, this project focuses on how a quantum computer can estimate the period `r` (order `r`) of a number `a mod n`  The implementation includes:
 
 - Modular exponentiation as a unitary gate
-- Quantum Phase Estimation (QPE)"
+- Quantum Phase Estimation (QPE)
 - Visualization of circuit behavior for small composite numbers (e.g, `n = 15`)
 - Discrepancy (Limitation of QPE)
 - [Optional] Comparison: Classical vs. Quantum order finding
@@ -43,7 +43,7 @@ An optional section shows how full RSA factorization could proceed once the peri
 
 📢 **Extra**: I shared this project on LinkedIn to reflect on the learning process and connect with others interested in quantum computing.
 
-🔗 [View the post on LinkedIn](https://www.linkedin.com/posts/MY_POST_ID)
+🔗 [View the post on LinkedIn]([https://www.linkedin.com/feed/update/urn:li:activity:7340649451797061632/])
 
 ---
 
