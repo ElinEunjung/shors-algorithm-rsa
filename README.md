@@ -43,7 +43,7 @@ An optional section shows how full RSA factorization could proceed once the peri
 
 📢 **Extra**: I shared this project on LinkedIn to reflect on the learning process and connect with others interested in quantum computing.
 
-🔗 [View the post on LinkedIn]([https://www.linkedin.com/feed/update/urn:li:activity:7340649451797061632/])
+🔗 [View the post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7340649451797061632/)
 
 ---
 
